@@ -1,0 +1,7 @@
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Avance\obj\Debug\Avance.csprojResolveAssemblyReference.cache
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Avance\obj\Debug\Avance.csproj.CoreCompileInputs.cache
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Avance\bin\Debug\Avance.exe.config
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Avance\bin\Debug\Avance.exe
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Avance\bin\Debug\Avance.pdb
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Avance\obj\Debug\Avance.exe
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Avance\obj\Debug\Avance.pdb

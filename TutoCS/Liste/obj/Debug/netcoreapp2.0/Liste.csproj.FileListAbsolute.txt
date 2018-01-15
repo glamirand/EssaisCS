@@ -1,0 +1,10 @@
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Liste\bin\Debug\netcoreapp2.0\Liste.deps.json
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Liste\bin\Debug\netcoreapp2.0\Liste.runtimeconfig.json
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Liste\bin\Debug\netcoreapp2.0\Liste.runtimeconfig.dev.json
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Liste\bin\Debug\netcoreapp2.0\Liste.dll
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Liste\bin\Debug\netcoreapp2.0\Liste.pdb
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Liste\obj\Debug\netcoreapp2.0\Liste.csproj.CoreCompileInputs.cache
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Liste\obj\Debug\netcoreapp2.0\Liste.AssemblyInfoInputs.cache
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Liste\obj\Debug\netcoreapp2.0\Liste.AssemblyInfo.cs
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Liste\obj\Debug\netcoreapp2.0\Liste.dll
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Liste\obj\Debug\netcoreapp2.0\Liste.pdb

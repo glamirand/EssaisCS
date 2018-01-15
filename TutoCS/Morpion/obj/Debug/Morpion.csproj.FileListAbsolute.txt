@@ -1,0 +1,7 @@
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Morpion\obj\Debug\Morpion.csprojResolveAssemblyReference.cache
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Morpion\obj\Debug\Morpion.csproj.CoreCompileInputs.cache
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Morpion\bin\Debug\Morpion.exe.config
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Morpion\bin\Debug\Morpion.exe
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Morpion\bin\Debug\Morpion.pdb
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Morpion\obj\Debug\Morpion.exe
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Morpion\obj\Debug\Morpion.pdb

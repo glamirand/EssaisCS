@@ -1,0 +1,11 @@
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Tableaux\bin\Debug\netcoreapp2.0\Tableaux.deps.json
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Tableaux\bin\Debug\netcoreapp2.0\Tableaux.runtimeconfig.json
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Tableaux\bin\Debug\netcoreapp2.0\Tableaux.runtimeconfig.dev.json
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Tableaux\bin\Debug\netcoreapp2.0\Tableaux.dll
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Tableaux\bin\Debug\netcoreapp2.0\Tableaux.pdb
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Tableaux\obj\Debug\netcoreapp2.0\Tableaux.csprojResolveAssemblyReference.cache
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Tableaux\obj\Debug\netcoreapp2.0\Tableaux.csproj.CoreCompileInputs.cache
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Tableaux\obj\Debug\netcoreapp2.0\Tableaux.AssemblyInfoInputs.cache
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Tableaux\obj\Debug\netcoreapp2.0\Tableaux.AssemblyInfo.cs
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Tableaux\obj\Debug\netcoreapp2.0\Tableaux.dll
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\Tableaux\obj\Debug\netcoreapp2.0\Tableaux.pdb

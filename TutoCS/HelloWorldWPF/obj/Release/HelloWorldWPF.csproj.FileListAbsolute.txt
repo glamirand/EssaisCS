@@ -1,0 +1,14 @@
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\HelloWorldWPF\bin\Release\HelloWorldWPF.exe.config
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\HelloWorldWPF\bin\Release\HelloWorldWPF.exe
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\HelloWorldWPF\bin\Release\HelloWorldWPF.pdb
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\HelloWorldWPF\obj\Release\MainWindow.g.cs
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\HelloWorldWPF\obj\Release\App.g.cs
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\HelloWorldWPF\obj\Release\HelloWorldWPF_MarkupCompile.cache
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\HelloWorldWPF\obj\Release\HelloWorldWPF_MarkupCompile.lref
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\HelloWorldWPF\obj\Release\MainWindow.baml
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\HelloWorldWPF\obj\Release\HelloWorldWPF.g.resources
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\HelloWorldWPF\obj\Release\HelloWorldWPF.Properties.Resources.resources
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\HelloWorldWPF\obj\Release\HelloWorldWPF.csproj.GenerateResource.Cache
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\HelloWorldWPF\obj\Release\HelloWorldWPF.csproj.CoreCompileInputs.cache
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\HelloWorldWPF\obj\Release\HelloWorldWPF.exe
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\HelloWorldWPF\obj\Release\HelloWorldWPF.pdb

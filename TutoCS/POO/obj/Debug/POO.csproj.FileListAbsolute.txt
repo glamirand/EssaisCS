@@ -1,0 +1,7 @@
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\POO\bin\Debug\POO.exe.config
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\POO\bin\Debug\POO.exe
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\POO\bin\Debug\POO.pdb
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\POO\obj\Debug\POO.csprojResolveAssemblyReference.cache
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\POO\obj\Debug\POO.exe
+C:\Users\Gaël LAMIRAND\source\repos\Tuto CS\TutoCS\POO\obj\Debug\POO.pdb
